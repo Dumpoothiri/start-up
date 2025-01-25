@@ -3,10 +3,10 @@
 **Author:** Dumpoothiri  
 **Instagram:** [@dumpoothiri](https://www.instagram.com/dumpoothiri)
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/start-up?style=social)](https://github.com/yourusername/start-up/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/start-up?style=social)](https://github.com/yourusername/start-up/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/start-up)](https://github.com/yourusername/start-up/issues)
-[![License](https://img.shields.io/github/license/yourusername/start-up)](https://github.com/yourusername/start-up/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/dumpoothiri/start-up?style=social)](https://github.com/dumpoothiri/start-up/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/dumpoothiri/start-up?style=social)](https://github.com/dumpoothiri/start-up/network)
+[![GitHub issues](https://img.shields.io/github/issues/dumpoothiri/start-up)](https://github.com/dumpoothiri/start-up/issues)
+[![License](https://img.shields.io/github/license/dumpoothiri/start-up)](https://github.com/dumpoothiri/start-up/blob/main/LICENSE)
 [![Python version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![Termux compatibility](https://img.shields.io/badge/Termux-✔️-green.svg)](https://termux.com)
 
@@ -27,7 +27,7 @@ Welcome to **Start-Up**, your one-click installer for **Termux**. This tool is d
   - **Hacker Mode**
   - **Pen Tester Mode**
   - **Install All Packages**
-- One-click install for a variety of tools
+- One-click install for a variety of tools and Packages
 - **Beautiful Terminal UI** with hacker-style loading screen and quotes
 - Designed for **Termux** on Android
 
@@ -79,5 +79,5 @@ The following packages are installed depending on the category selected:
    cd start-up
    python start-up.py
    
-   
+   ............................
    
