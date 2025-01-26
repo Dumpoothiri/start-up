@@ -79,5 +79,3 @@ The following packages are installed depending on the category selected:
    cd start-up
    python start-up.py
    
-   ............................
-   
