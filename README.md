@@ -10,7 +10,7 @@
 [![Python version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![Termux compatibility](https://img.shields.io/badge/Termux-✔️-green.svg)](https://termux.com)
 
-![Logo](https://i.ibb.co/vX2dwyr/Picsart-25-01-26-11-24-10-968.png)
+![Alt text](https://i.ibb.co/vX2dwyr/Picsart-25-01-26-11-24-10-968.png)
 
 ---
 
